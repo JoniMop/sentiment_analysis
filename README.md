@@ -1,2 +1,2 @@
 # sentiment_analysis
-Feeling on social media
+Feelings on social media
